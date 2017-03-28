@@ -1,5 +1,5 @@
-# sound-touch-demo-master
-SoundTouch-Android
+#SoundTouch-Android
+SoundTouch
 ==================
 <pre>
 Copyright [2013] [Steve Myers]
@@ -67,7 +67,7 @@ To demonstrate, execute the following in your app:
 
 ```java
 //The last two parameters are speed of playback (1.0 is 100% of original speed) and pitch adjustment in semi-tones.
-SoundStreamAudioPlayer player = new SoundStreamAudioPlayer(0, fullPathToAudioFile, 1.0f, 0.0f);
+SoundStreamAudioPlayer player = new SoundStreamAudioPlayer(0, f.getPath(), 1.0f, 1.0f);
 new Thread(player).start();
 player.start();
 ````
