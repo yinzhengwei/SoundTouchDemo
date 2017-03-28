@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:7:22-68
+application
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [SoundTouchDemo:soundtouch_library:unspecified] /Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/SoundTouchDemo/soundtouch_library/unspecified/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from [SoundTouchDemo:soundtouch_library:unspecified] /Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/SoundTouchDemo/soundtouch_library/unspecified/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.yzw.soundtouch.MainActivity
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.yzw.soundtouch.RecordActivity
+ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:22:9-24:61
+	android:screenOrientation
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml:23:13-43
+uses-sdk
+INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [SoundTouchDemo:soundtouch_library:unspecified] /Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/SoundTouchDemo/soundtouch_library/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Desktop/SoundTouchDemo/app/src/main/AndroidManifest.xml

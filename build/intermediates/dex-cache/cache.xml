@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/SoundTouchDemo/soundtouch_library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="13ef5589694508b01139e33c757a2887f5b79d2e">
+        <dex dex="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/pre-dexed/debug/SoundTouchDemo-soundtouch_library-unspecified_2173db4a4f921df3ca2eb7c90ad5c4483ba67e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_6f3df691dd6e4c351cd9414c7765e8c578ffb366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_a94ca197a404488523d392942d293a10388072fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_869756fe42eea19857e2faf582c7661c038f00b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ethank/Documents/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_b17a23d81931ec75502985d343fc5bfa7129cf5a.jar" />
+    </item>
+
+</items>

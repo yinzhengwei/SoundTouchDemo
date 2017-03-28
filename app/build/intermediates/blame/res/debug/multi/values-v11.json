@@ -1,0 +1,377 @@
+[
+    {
+        "outputFile": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/SoundTouchDemo/soundtouch_library/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1459
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1464,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1890,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2314
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2739
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2428,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2744,
+                    "endColumn": 88,
+                    "endOffset": 2828
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endColumn": 88,
+                        "endOffset": 3178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2833,
+                    "endColumn": 100,
+                    "endOffset": 2929
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3183,
+                        "endColumn": 100,
+                        "endOffset": 3279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2934,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3337
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3284,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3342,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3757
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3692,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3762,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3864
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4353,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3869,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 3993
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4460,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3998,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4357
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4589,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4362,
+                    "endColumn": 70,
+                    "endOffset": 4428
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5194,
+                        "endColumn": 70,
+                        "endOffset": 5260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4433,
+                    "endColumn": 82,
+                    "endOffset": 4511
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5265,
+                        "endColumn": 82,
+                        "endOffset": 5343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4516,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 8260
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5348,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 9092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8265,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 12149
+                },
+                "from": {
+                    "file": "/Users/ethank/Desktop/SoundTouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9097,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 12981
+                    }
+                }
+            }
+        ]
+    }
+]
