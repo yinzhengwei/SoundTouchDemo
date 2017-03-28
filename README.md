@@ -1,5 +1,4 @@
-#SoundTouch-Android
-SoundTouch
+#SoundTouch
 ==================
 <pre>
 Copyright [2013] [Steve Myers]
